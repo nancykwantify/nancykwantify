@@ -1,6 +1,6 @@
-### Hi, I'm Nancy 👋
+## Hi, I'm Nancy 👋
 
-I'm a software developer, coffee lover and aspiring ADK 46er.<br> 
+I'm a software developer, coffee lover and mindful agile enthusiast.<br> 
 Here to help build a better future as our economy is tranformed by technological advances.
 
 
@@ -21,12 +21,14 @@ Here to help build a better future as our economy is tranformed by technological
 </details>
 
 <details>
-<summary>Hobbies</summary>
+<summary>Fun Facts</summary>
 
-  🛶 Kayaking <br>
-  🧘🏻‍♀️ Meditation <br>
-  📷 Photography <br>
-  ☕️ Espresso Enthusiast
+  ⛰ Aspiring ADK46er <br>
+  🎮 Terrible Gamer <br>
+  ☕️ Espresso Enthusiast <br>
+  🌷 Hyacinth Mom <br>
+  📷 Wannabe NatGeo Photographer <br>
+ 
 
 </details>
 
