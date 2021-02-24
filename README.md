@@ -1,4 +1,37 @@
-### Hi there 👋
+### Hi, I'm Nancy 👋
+
+I'm a software developer, coffee lover and aspiring ADK 46er.<br> 
+Here to help build a better future as our economy is tranformed by technological advances.
+
+
+<a href="https://nancykwan.dev" > <img src="https://github.com/nancykwantify/nancykwantify/blob/main/world-regular-24.png" width="18"> </a>
+<a href="https://linkedin.com/in/nancykwan" > <img src="https://github.com/nancykwantify/nancykwantify/blob/main/linkedin-square-logo-24.png" width="18"> </a>
+<a href="https://twitter.com/nancykwantify" > <img src="https://github.com/nancykwantify/nancykwantify/blob/main/twitter-logo-24.png" width="18" > </a>
+<a href="https://instagram.com/nancypantsy" > <img src="https://github.com/nancykwantify/nancykwantify/blob/main/instagram-logo-24.png" width="18"> </a>
+
+###
+<details>
+<summary>My Values</summary>
+<ul>
+  <li>Thoughtful & Inclusive Development</li>
+  <li>Mindset of Learning & Curiosity</li>
+  <li>Authentic Expression</li>
+  <li>Teamwork & Communication</li>
+</ul>
+</details>
+
+<details>
+<summary>Hobbies</summary>
+
+  🛶 Kayaking <br>
+  🧘🏻‍♀️ Meditation <br>
+  📷 Photography <br>
+  ☕️ Espresso Enthusiast
+
+</details>
+
+
+
 
 <!--
 **nancykwantify/nancykwantify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
