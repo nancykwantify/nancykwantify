@@ -1,7 +1,7 @@
 ## Hi, I'm Nancy 👋
 
-I'm a software developer, coffee lover and mindful agile enthusiast.<br> 
-Here to help build a better future as our economy is tranformed by technological advances.
+I enjoy building things that can improve people's daily lives.<br> 
+When I'm not coding, you can usually find me on a mountaintop somewhere.
 
 
 <a href="https://nancykwan.dev" > <img src="https://github.com/nancykwantify/nancykwantify/blob/main/world-regular-24.png" width="18"> </a>
