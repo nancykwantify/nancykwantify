@@ -1,6 +1,6 @@
 ## Hi, I'm Nancy 👋
 
-I enjoy building things that can improve people's daily lives.<br> 
+I enjoy building things that help improve people's daily lives.<br> 
 When I'm not coding, you can usually find me on a mountaintop somewhere.
 
 
